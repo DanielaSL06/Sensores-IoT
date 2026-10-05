@@ -34,6 +34,15 @@ Este proyecto simula la arquitectura de recolección, ingesta y procesamiento co
    * **Transmisión Asíncrona en Bucle:** Envía periódicamente los paquetes de datos cada 5 segundos hacia el servidor Flask mediante solicitudes `requests.post()`, mostrando en consola la respuesta HTTP del servidor.
 
 ---
+## Imágenes
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/725a3802-65cd-4fe0-b0f9-4953012f31fc" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/f09de036-efa4-483f-b18c-b21ae417978d" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0f63870d-0b07-4d6f-b7ed-1e830035bc01" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/bcde14a8-55b5-46a6-9702-60d0ce263bb4" />
+
+
+
+
 
 ## Instrucciones de Ejecución
 
