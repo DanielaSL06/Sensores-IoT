@@ -1,4 +1,9 @@
-# 03. API REST e Ingesta de Datos de Sensores IoT en Tiempo Real
+# API REST e Ingesta de Datos de Sensores IoT en Tiempo Real
+
+## Creadores
+* Hernandez Morales Anahí
+* López Corella David Antonio
+* Sandoval López Daniela
 
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** Python (v3.10 / v3.11)
